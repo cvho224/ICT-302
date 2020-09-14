@@ -1,22 +1,16 @@
 ---
-title: "About me"
-date: 2020-08-24T00:00:00-04:00
+title: "Definitions"
+date: 2020-09-13T00:00:00-04:00
 draft: false
 ---
 
-Hello, this page is going to be all about me. My name is Colton Howard and I am a senior at the University of Kentucky. My major is Information Communication Technology (ICT) while my minor is in Computer Science. I transfered from Big Sandy Community and Technical College with an associates degree in science in the hopes of becoming a Computer Engineer. After transfering, I soon figured out that I couldn't do calculus. Because I couldn't do calculus I decided ICT was going to be the next best thing for me.
+Hello, this page includes some concepts we have learned.
 
-My Hobbies
+Def 1
 ==========
-Some of my hobbies include:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-* Tinkering with Computers and other electronics.
-* Riding my Four-wheeler
-* Playing Videogames
-
-More About the VideoGames I Play
+Def 2
 ================================
 
-I enjoy many different types of VideoGames ranging from RPGs to MMOs. One game I am looking forward to is the new Marvel Avengers game by Square Enix. [Link here.](https://avengers.square-enix-games.com/en-us/) Another game I enjoy playing is Pokemon Sword. [Link here.](https://swordshield.pokemon.com/en-us/)
-
-![This is a picture of me](https://hungry-albattani-292e1d.netlify.app/profilepic.png)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
