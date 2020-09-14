@@ -1,22 +1,18 @@
 ---
-title: "About me"
-date: 2020-08-24T00:00:00-04:00
+title: "Walkthroughs"
+date: 2020-09-13T00:00:00-04:00
 draft: false
 ---
 
-Hello, this page is going to be all about me. My name is Colton Howard and I am a senior at the University of Kentucky. My major is Information Communication Technology (ICT) while my minor is in Computer Science. I transfered from Big Sandy Community and Technical College with an associates degree in science in the hopes of becoming a Computer Engineer. After transfering, I soon figured out that I couldn't do calculus. Because I couldn't do calculus I decided ICT was going to be the next best thing for me.
 
-My Hobbies
-==========
-Some of my hobbies include:
 
-* Tinkering with Computers and other electronics.
-* Riding my Four-wheeler
-* Playing Videogames
+Step 1
+======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Augue ut lectus arcu bibendum at varius vel. Id neque aliquam vestibulum morbi blandit cursus risus at. Pulvinar mattis nunc sed blandit. Auctor neque vitae tempus quam pellentesque. Velit sed ullamcorper morbi tincidunt ornare massa. At urna condimentum mattis pellentesque id nibh tortor. Proin libero nunc consequat interdum varius sit amet. Fringilla urna porttitor rhoncus dolor purus non.
 
-More About the VideoGames I Play
-================================
+Step 2
+======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Augue ut lectus arcu bibendum at varius vel. Id neque aliquam vestibulum morbi blandit cursus risus at. Pulvinar mattis nunc sed blandit. Auctor neque vitae tempus quam pellentesque. Velit sed ullamcorper morbi tincidunt ornare massa. At urna condimentum mattis pellentesque id nibh tortor. Proin libero nunc consequat interdum varius sit amet. Fringilla urna porttitor rhoncus dolor purus non.
 
-I enjoy many different types of VideoGames ranging from RPGs to MMOs. One game I am looking forward to is the new Marvel Avengers game by Square Enix. [Link here.](https://avengers.square-enix-games.com/en-us/) Another game I enjoy playing is Pokemon Sword. [Link here.](https://swordshield.pokemon.com/en-us/)
 
-![This is a picture of me](https://hungry-albattani-292e1d.netlify.app/profilepic.png)
+![This is a random picture](https://pixabay.com/photos/adler-bird-bird-of-prey-raptor-5522202/)
