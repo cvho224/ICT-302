@@ -1,7 +1,7 @@
 baseURL = "https://hungry-albattani-292e1d.netlify.app/"
 languageCode = "en-us"
 title = "My ICT 302 Website"
-theme = ""
+theme = "ananke"
 
 [build]
 publish = "public"
