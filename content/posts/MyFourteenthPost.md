@@ -1,0 +1,9 @@
+---
+title: "Learning Report for Module 14"
+date: 2020-11-22T00:00:00-04:00
+draft: false
+---
+
+Week 14: 
+==============================================
+I can be excited to say that this week learned about making money on the interent. We also got to mess around with another content management system as part of our extra project. Enough about that, lets get into what all else I learned this week. There were some key concepts we learned this week in content management. This week we learned about making money on the internet. More specifically we looked at different money making methods like advertizing and crowd funding and talked about which way was our favorite. For comparing content management systems, we looked at the omeka CMS. This CMS is simmilar to a database as it has different catagories and tags you can store things as. As far as managing content using workflows, me and my group worked on a blog post exploring important aspects when choosing a laptop. We also met to explore omeka. We met during class this week to talk about the Blog Post and later on Wednesday during normal class time to talk about omeka. We also have been talking with each other on Microsoft Teams. One technology related to content management systems I learned about this week was the [Patreon](https://www.patreon.com/ "Patreon"). You can use it to make money online by offering exclusive content to people for money. Lastly, but not least, is resources for self-directed learning. This week I looked at different plugins to add to the WordPress site talking about advertizing and I found a useful one called Patreon WordPress. [Patreon WordPress](https://sised.is.uky.edu/ict302wp/wp-admin/plugin-install.php?s=patreon&tab=search&type=term "Patreon WordPress") is a plugin you can add to your WordPress site to add Patreon functionality to your wordpress site. Well, that is some things I learned this week and I hope to learn a lot more soon.
